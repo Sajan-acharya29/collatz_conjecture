@@ -1,0 +1,2 @@
+# collatz_conjecture
+There is a simple math problem which suggests that every positive integer will eventually reach 1 by repeatedly applying the following logic:   If the number is even, divide it by two. If the number is odd, triple it and add one. It is among the least tractable problems in all of mathematics. This combined with the problem's simple statement makes it quite peculiar. If you want to learn more about this simple yet mysterious problem, here is a link to a youtube video about it: https://www.youtube.com/watch?v=094y1Z2wpJg 
